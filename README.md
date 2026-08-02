@@ -58,18 +58,6 @@ Practicing  → Data Structures & Algorithms (Java)
 Exploring   → Cloud Native Architecture
 ```
 
----
-
-## GitHub Analytics
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sushantkumargupta104-prog&theme=github_dark)
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thtsaman&theme=github_dark" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thtsaman&theme=github_dark" width="48%" />
-</p>
-
----
 
 ## Connect With Me
 
